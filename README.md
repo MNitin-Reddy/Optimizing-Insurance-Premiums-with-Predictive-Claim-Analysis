@@ -1,5 +1,4 @@
 # Optimizing Insurance Premiums with Predictive Claim Analysis
-# Car Insurance Claim Prediction
 
 ## Project Overview
 
